@@ -1,0 +1,17 @@
+FinnishMark documentation pack
+Initial release date: 26 November 2026
+Release version: 1.0
+
+Included:
+- FIM_WHITE_PAPER_V1_0.md
+- FIM_TERMS_AND_CONDITIONS_V1_0.md
+- FIM_PRIVACY_POLICY_V1_0.md
+- SOC2_ALIGNMENT_REPORT_V1_0.md
+- README.md
+
+Release notes:
+1. All documents are numbered 1.0 as the initial documentation release.
+2. Revision metadata has been omitted. Initial publication/effective dates are aligned to 26 November 2026.
+3. The SOC 2 Alignment Report describes the liquidity lock as planned and not yet deployed or verified on-chain. Do not report it as an implemented control until deployment and on-chain verification are complete.
+4. The Privacy Policy's data-controller identity/contact details and actual cross-border transfer safeguards should be confirmed with the responsible legal/privacy adviser before public release.
+5. This pack is a documentation compilation, not legal advice or a certification of MiCA, GDPR, or SOC 2 compliance.
